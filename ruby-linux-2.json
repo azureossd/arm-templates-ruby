@@ -6,7 +6,7 @@
       "siteName": "[concat(toLower(variables('hostingPlanName')), uniqueString(resourceGroup().id))]",
       "sku": "P1v2",
       "siteConfig": {
-        "linuxFxVersion": "RUBY|2.6"
+        "linuxFxVersion": "RUBY|2.7"
       }
     },
     "resources": [
