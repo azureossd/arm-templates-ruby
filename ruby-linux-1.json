@@ -8,7 +8,7 @@
     "repoURL": "https://github.com/azureossd/ruby-linux-1.git",
     "branch": "master",
     "siteConfig": {
-      "linuxFxVersion": "RUBY|2.6"
+      "linuxFxVersion": "RUBY|2.7"
     }
   },
   "resources": [
