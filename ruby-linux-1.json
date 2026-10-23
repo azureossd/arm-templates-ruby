@@ -6,7 +6,7 @@
     "siteName": "[concat(toLower(variables('hostingPlanName')), uniqueString(resourceGroup().id))]",
     "sku": "P1v2",
     "repoURL": "https://github.com/azureossd/ruby-linux-1.git",
-    "branch": "master",
+    "branch": "main",
     "siteConfig": {
       "linuxFxVersion": "RUBY|2.7"
     }
